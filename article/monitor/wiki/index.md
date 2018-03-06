@@ -14,9 +14,9 @@
 ##### 登录
 - [ [/com.fan.user.Login/1.0.0] 登录 ](user/登录.md)
 
-- [ [] ](user/)
+- [ [/com.fan.user.cancel/1.0.0] 退出登录 ](user/退出登录.md)
 
-- [ [] ](user/)
+- [ [/com.fan.user.getInfo/1.0.0] 获取用户信息 ](user/获取用户信息.md)
 
 - [ [] ](user/)
 
@@ -24,3 +24,7 @@
 - [ [] ](user/保存密码.md)
 
 - [ [] ](user/修改密码.md)
+
+### 消息相关
+
+###  用户订阅相关
